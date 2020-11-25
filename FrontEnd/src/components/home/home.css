@@ -1,0 +1,29 @@
+#search{
+    background: transparent;
+    border-radius: 10px;
+    width: 500px;
+    /* position: relative;
+    top: 70px; */
+}
+#total{
+    background-color: #202020;
+    height : 1000px;
+}
+#awe{
+    color: white;
+}
+.search-btn{
+    position: relative;
+    top:38px;
+    
+}
+
+.layout{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img{
+    margin-top: 60%;
+}

@@ -1,0 +1,56 @@
+#info{
+    background-color: whitesmoke;
+}
+#over{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 450;
+}
+#first{
+    font-weight: 900;
+}
+#head-first{
+    font-size: 20px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    color: whitesmoke;
+}
+#head-start{
+    font-size: 40px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 100;
+    color: whitesmoke;
+}
+#head-over{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: whitesmoke;
+    background-color:#6c3;
+    border: 5px;
+    width: 65px;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    
+}
+#tempo{
+    background-color : black;
+}
+#sub{
+    color: whitesmoke;
+}
+#year{
+    color: whitesmoke;
+}
+#start{
+    font-size: 30px;
+}
+#image{
+    background-color: black;
+    border: 40px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    
+}
